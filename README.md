@@ -11,7 +11,7 @@
 
 
 
-### Bienvenue  
+### Welcome 
 Full-stack developer (graduated in 2021) with experience across multiple tech stacks. I specialize in front-end development and enjoy crafting intuitive, modern, and visually clean web applications. I'm also fully capable of handling back-end development when needed, and I love learning new tools and technologies along the way  
   
 
@@ -31,10 +31,6 @@ Full-stack developer (graduated in 2021) with experience across multiple tech st
   
 
 - ⚡ Fun fact: i love cooking  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
